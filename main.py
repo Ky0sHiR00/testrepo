@@ -1,0 +1,1 @@
+print("Pizdokleszcz"+'lipa')
